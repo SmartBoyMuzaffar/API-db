@@ -1,3 +1,4 @@
+uvicorn
 Flask
 fastapi
 pysqlite3
